@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shark-tech.sd/sitemap.xml
